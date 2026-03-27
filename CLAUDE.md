@@ -23,6 +23,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 > - How major components communicate
 > - Data flow
 
+## Git Workflow
+
+**Important:** All work must be committed to git and pushed to GitHub regularly with clean, descriptive commit messages. This ensures we never lose progress and can easily revert if needed.
+
+- Commit frequently after completing logical units of work
+- Use clear, descriptive commit messages that explain *what* changed and *why*
+- Push to GitHub regularly (at least after completing a task or feature)
+- This repository serves as the single source of truth for all work done
+
 ## Key Development Guidelines
 
 > Add project-specific guidelines and conventions as we establish them.
